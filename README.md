@@ -12,4 +12,4 @@ Charts:
 
 ### Final Quiz Model
 
-https://github.com/user-attachments/assets/8813ae38-c716-4ef9-8c5a-b6bc3bd43c5c
+https://github.com/user-attachments/assets/a161fb04-9285-43a1-a823-64bf645ccfd7
