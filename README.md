@@ -1,10 +1,10 @@
 # Example of a quizz template using Qlik Cloud charts
 
 Charts:
-- **Container layout
-- **Button
-- **Table
-- **Text and image
+- Container layout
+- Button
+- Table
+- Text and image
 
 ### Answer template
 
